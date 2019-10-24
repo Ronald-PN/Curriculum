@@ -1,0 +1,75 @@
+body{
+
+width:69%;
+margin: 0 auto;
+
+
+
+
+}
+div{
+position:relative;
+margin-left:230px;
+margin-top:10px;
+bottom:1830;
+color:black
+}
+.colorprincipal{
+position:relative;
+background:#00b300;
+height:1100px;
+width: 200px;
+}
+.verde{
+color:hsl(120, 8%, 5%);
+
+}
+.encabezado{
+border-bottom:5px solid #000099;;
+width:94.8%;
+color:blue;
+
+
+
+}
+.imagen{
+position:relative;
+margin:30px;
+
+
+}
+.curriculum{
+margin-left:90px;
+margin-top: 700px;
+
+}
+.fondocurriculum{
+position:relative;
+width:769px;
+height:1100;
+margin-left:220px;
+bottom:725px;
+
+}
+
+.subirfoto{
+
+bottom:300px;
+margin-left:51px;
+color:#0000ff;
+font-size:25px;
+
+}
+.argumento{
+position:relative;
+margin-top: -500px;
+margin-left:20px;
+color: white;
+font-size:22px;
+
+
+}
+
+
+
+
